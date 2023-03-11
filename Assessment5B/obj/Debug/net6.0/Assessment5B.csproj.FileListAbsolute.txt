@@ -1,0 +1,8 @@
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.csproj.AssemblyReference.cache
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.AssemblyInfoInputs.cache
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.AssemblyInfo.cs
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.csproj.CoreCompileInputs.cache
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.RazorAssemblyInfo.cache
+C:\Users\Takiya\source\repos\Assessment5B\Assessment5B\obj\Debug\net6.0\Assessment5B.RazorAssemblyInfo.cs
